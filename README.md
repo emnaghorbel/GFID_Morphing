@@ -15,14 +15,14 @@ Arc length reparameterization : Reparametrage_euclidien2.m
 
 Example of GFID morphing with the hyperparameter n0=2 :
 
-![Extraction_de_contour](git1.png)
+![Extraction_de_contour](git1.PNG)
 
 GPC= 5.406520423267544
 DPCC= 5.587188102711261 (more sensitive to p and a variation)
 
 Example of GFID morphing with the hyperparameter n0=5 :
 
-![Extraction_de_contour](git2.png)
+![Extraction_de_contour](git2.PNG)
 
 GPC= 10.525737816453134
 DPCC= 4.509621984709076 (more sensitive to p and a variation)
